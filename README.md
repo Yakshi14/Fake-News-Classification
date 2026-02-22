@@ -1,4 +1,3 @@
-# Fake-News-Classification
 
 # Fake News Classification: AI Agent & Browser Extension
 
